@@ -4,4 +4,5 @@
 - The features were in the csv dataset and in separate .png images files (spirometry graphs).
 - The target was "M_Acceptable" column in dataset.
 - The data was divided into training and validation sets
-- The notebook contains several approaches and runs of various models. 
+- The notebook contains several approaches and runs of various models.
+- On the validation dataset, the F1 score reached: 0.8879
